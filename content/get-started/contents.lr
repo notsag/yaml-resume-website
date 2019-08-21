@@ -1,0 +1,25 @@
+title: yaml-resume | Get Started
+---
+body:
+
+# Getting started
+
+## Install yaml-resume
+
+yaml-resume needs **Python 3.5+** in order to work.
+
+```bash
+python3 -m pip install yaml-resume
+```
+
+## Create a resume
+
+```
+yaml-resume init resume.yml
+```
+
+## Validate a yaml file
+
+```bash
+yaml-resume validate file.yml
+```

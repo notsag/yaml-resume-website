@@ -1,0 +1,8 @@
+[project]
+name = yaml-resume.com
+url = https://yaml-resume.com
+
+[packages]
+lektor-webpack-support = 0.3
+lektor-markdown-highlighter = 0.1
+lektor-markdown-header-anchors = 0.1

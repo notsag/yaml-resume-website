@@ -1,0 +1,16 @@
+title: yaml-resume
+---
+body:
+
+# yaml-resume
+
+## What is yaml-resume?
+
+yaml-resume is an **open source** initiative to create a YAML-based standard for resumes.
+
+It is a Python package that will help you create a well-formed resume in YAML.
+
+## Why yaml?
+
+YAML is **lightweight**, **easy** and **human readable**.
+It is also **easy to process** as the data are in a plaintext format.
