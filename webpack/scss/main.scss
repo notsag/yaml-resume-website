@@ -37,7 +37,7 @@ $fa-font-path: "~font-awesome/fonts";
 
 body {
   padding: 0;
-  background: $blue;
+  background: #fff;
 }
 
 pre {
@@ -88,9 +88,9 @@ div.body-wrapper {
 }
 
 footer {
-  border-top: 1px solid #666;
+  //border-top: 1px solid #666;
   padding: 10px 0;
-  color: #fff;
+  color: $blue;
   line-height: 36px;
 
   .icon-bar {
@@ -102,16 +102,22 @@ footer {
   }
 
   a {
-    color: #def;
+    color: darken($blue, 10%);
     text-decoration: underline;
     &:hover {
-      color: white;
+      color: ligthen($blue, 10%);
     }
   }
 
   div.row > div + div {
     text-align: right;
   }
+}
+
+footer div.row {
+	border-top: 1px solid $blue;
+	padding-top: 10px;
+	text-align: center
 }
 
 pre {

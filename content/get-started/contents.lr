@@ -2,7 +2,9 @@ title: yaml-resume | Get Started
 ---
 body:
 
-# Getting started
+# Get started
+
+This is a quickstart guide on how to install and use yaml-resume CLI. For more informations, check the [Documentation](https://docs.yaml-resume.com).
 
 ## Install yaml-resume
 
