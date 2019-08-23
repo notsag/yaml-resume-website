@@ -1,0 +1,14 @@
+title: yaml-resume | Themes
+---
+body:
+
+# Themes
+
+yaml-resume cli allows to export your YAML file to html or pdf.
+
+You can use the following themes:
+
+## Classic
+
+![classic](classic.png) ![classic with image](classic-image.png)
+

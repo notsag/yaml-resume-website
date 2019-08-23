@@ -25,3 +25,9 @@ yaml-resume init resume.yml
 ```bash
 yaml-resume validate file.yml
 ```
+
+## Generate an html or pdf resume
+
+```bash
+yaml-resume export FILENAME [-t <theme>] [-e <html|pdf>] [-i <picture>] [-o <output-file>]
+```

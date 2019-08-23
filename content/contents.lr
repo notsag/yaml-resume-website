@@ -10,7 +10,7 @@ The **open source** initiative to create a YAML-based standard for resumes and t
 
 It is a Python package that provides: 
 
-- A CLI that will help you create a well-formed resume in YAML.
+- A CLI that will help you create a well-formed resume in YAML and generate html/pdf files from it.
 - A library for processing YAML resume.
 
 ## Why yaml?
