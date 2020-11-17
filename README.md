@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.com/notsag/yaml-resume-website.svg?branch=master)](https://travis-ci.com/notsag/yaml-resume-website)
+
 # yaml-resume website
 
-The yaml-resume.com static site generated with [Lektor](https://www.getlektor.com).
+The source of the yaml-resume.com static website generated with [Lektor](https://www.getlektor.com).
 
 https://yaml-resume.com/
 
